@@ -28,9 +28,6 @@
 
 - **Database**: MySQL  
   Menyimpan semua data produk, pengguna, dan transaksi secara terstruktur dan aman.
-
-- **Platform**: Mobile App (Android/iOS)  
-  User interface yang responsif dan intuitif untuk memanjakan pengguna.
   
 ---
 
